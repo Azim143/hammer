@@ -18,4 +18,4 @@ $ python hammer.py -s 123.45.67.89 -t 135<br>
 
 Follow Me:
 [`Fb me`](https://www.facebook.com/100022097600640)
-[`Whatsapp`] (https://chat.whatsapp.com/FRfuraMrZrU3mgCtuFg75k)
+[`w me`](https://chat.whatsapp.com/FRfuraMrZrU3mgCtuFg75k)
