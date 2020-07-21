@@ -17,5 +17,5 @@ example:<br>
 $ python hammer.py -s 123.45.67.89 -t 135<br>
 
 Follow Me:
-[`Fb me`](https://www.facebook.com/100022097600640)
-[`w me`](https://chat.whatsapp.com/FRfuraMrZrU3mgCtuFg75k)
+[`Fb me`](https://www.facebook.com/100022097600640)<br>
+[`wp me`](https://chat.whatsapp.com/FRfuraMrZrU3mgCtuFg75k)
